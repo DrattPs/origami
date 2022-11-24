@@ -1,0 +1,22 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+}
+
+.header {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 0px;
+    line-height: 37px;
+}
+
+#intro {
+    background: radial-gradient(violet 0%, Darkblue 100%);
+    height: 1200px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+
+}
